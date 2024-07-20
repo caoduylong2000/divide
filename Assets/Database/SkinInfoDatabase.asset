@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828627b2212c14bb681321cdaf5c6b35, type: 3}
+  m_Name: SkinInfoDatabase
+  m_EditorClassIdentifier: 
+  skinInfos:
+  - isUseBlockColorTable: 1
+    isPurchased: 1
+    price: 0
+    bg: {r: 1, g: 1, b: 1, a: 1}
+    bgImage: {fileID: 0}
+    icon: {r: 0.34901962, g: 0.34901962, b: 0.34901962, a: 1}
+    block: {r: 0, g: 0, b: 0, a: 0}
+    tutorialBG: {r: 0.7647059, g: 0.7647059, b: 0.7647059, a: 0.76862746}
+    slot: {r: 1, g: 1, b: 1, a: 1}
+    slotMouseOver: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+    timeLimitBgColor: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 1}
+    blockSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    blockHighlightSprite: {fileID: 21300000, guid: d2dd72494371b4b8a89a274222b5ef89,
+      type: 3}
+    blockShadowSprite: {fileID: 21300000, guid: c01479a675aa941e2bce8d720bf7cf98,
+      type: 3}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    titleObjIndex: 0
+  - isUseBlockColorTable: 0
+    isPurchased: 1
+    price: 0
+    bg: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
+    bgImage: {fileID: 0}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.105882354, g: 0.8509804, b: 0.69803923, a: 1}
+    tutorialBG: {r: 0, g: 0, b: 0, a: 0.76862746}
+    slot: {r: 0.44313726, g: 0.44705883, b: 0.44313726, a: 1}
+    slotMouseOver: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    blockHighlightSprite: {fileID: 0}
+    blockShadowSprite: {fileID: 0}
+    slotSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    effectSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    titleObjIndex: 1
+  - isUseBlockColorTable: 0
+    isPurchased: 0
+    price: 100
+    bg: {r: 0, g: 0.4062174, b: 0.754717, a: 1}
+    bgImage: {fileID: 21300000, guid: b4b46d762bb714c4a919f2ba1441618b, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.1254902, g: 0.6313726, b: 0.76470596, a: 1}
+    tutorialBG: {r: 0, g: 0, b: 0, a: 0.76862746}
+    slot: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
+    slotMouseOver: {r: 0.07075471, g: 0.81008124, b: 1, a: 0.7372549}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    blockHighlightSprite: {fileID: 0}
+    blockShadowSprite: {fileID: 0}
+    slotSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    effectSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    titleObjIndex: 2
+  - isUseBlockColorTable: 0
+    isPurchased: 0
+    price: 200
+    bg: {r: 0.87843144, g: 0.49803925, b: 0.57254905, a: 1}
+    bgImage: {fileID: 21300000, guid: 0ae6bb992c0e240b78869414b21d0446, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.90196085, g: 0.38823533, b: 0.69411767, a: 1}
+    tutorialBG: {r: 0, g: 0, b: 0, a: 0.76862746}
+    slot: {r: 0.87843144, g: 0.87843144, b: 0.87843144, a: 1}
+    slotMouseOver: {r: 0.90196085, g: 0.38823533, b: 0.69411767, a: 0.30588236}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    blockHighlightSprite: {fileID: 21300000, guid: d2dd72494371b4b8a89a274222b5ef89,
+      type: 3}
+    blockShadowSprite: {fileID: 21300000, guid: c01479a675aa941e2bce8d720bf7cf98,
+      type: 3}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    titleObjIndex: 3
+  - isUseBlockColorTable: 1
+    isPurchased: 0
+    price: 150
+    bg: {r: 1, g: 0.66850936, b: 0.21226418, a: 1}
+    bgImage: {fileID: 21300000, guid: d2a6754af02a841d19fe34c86fba111e, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.9058824, g: 0.28235295, b: 0.23529413, a: 1}
+    tutorialBG: {r: 0, g: 0, b: 0, a: 0.76862746}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 1, g: 0.495283, b: 0.495283, a: 0.6862745}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    blockHighlightSprite: {fileID: 21300000, guid: d2dd72494371b4b8a89a274222b5ef89,
+      type: 3}
+    blockShadowSprite: {fileID: 21300000, guid: c01479a675aa941e2bce8d720bf7cf98,
+      type: 3}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: d8e578a9a2c8d44d0b9f7e724c4b4c25, type: 3}
+    titleObjIndex: 4
+  - isUseBlockColorTable: 0
+    isPurchased: 0
+    price: 150
+    bg: {r: 0.36040404, g: 0.6726964, b: 0.8584906, a: 1}
+    bgImage: {fileID: 21300000, guid: dbb3563b815704bfeac27eac3fa17881, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.15294118, g: 0.62352943, b: 0.7490196, a: 1}
+    tutorialBG: {r: 0, g: 0, b: 0, a: 0.76862746}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 0.36078432, g: 0.6745098, b: 0.85882354, a: 0.76862746}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    blockHighlightSprite: {fileID: 0}
+    blockShadowSprite: {fileID: 0}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: ba1f2688f7b180b409e6df520322bef9, type: 3}
+    titleObjIndex: 5
+  - isUseBlockColorTable: 0
+    isPurchased: 0
+    price: 300
+    bg: {r: 0, g: 0, b: 0, a: 1}
+    bgImage: {fileID: 21300000, guid: 022380e33a7f34eaca7bf1610b7c521b, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.18823531, g: 0.61960787, b: 0.6509804, a: 1}
+    tutorialBG: {r: 0.07058824, g: 0.59607846, b: 0.46274513, a: 0.62352943}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 0.07058824, g: 0.59607846, b: 0.4627451, a: 0.62352943}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    blockHighlightSprite: {fileID: 0}
+    blockShadowSprite: {fileID: 0}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: d8e578a9a2c8d44d0b9f7e724c4b4c25, type: 3}
+    titleObjIndex: 6
+  - isUseBlockColorTable: 0
+    isPurchased: 0
+    price: 250
+    bg: {r: 0.36209506, g: 0.7309849, b: 0.745283, a: 1}
+    bgImage: {fileID: 21300000, guid: f43dea4dca5454c74a6b14f0b291a4e5, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 0}
+    block: {r: 0.18823531, g: 0.61960787, b: 0.6509804, a: 1}
+    tutorialBG: {r: 0, g: 0.6886792, b: 0.52676135, a: 0.62352943}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 0.36078432, g: 0.7294118, b: 0.74509805, a: 0.62352943}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    blockHighlightSprite: {fileID: 0}
+    blockShadowSprite: {fileID: 0}
+    slotSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    effectSprite: {fileID: 21300000, guid: a41074df36c3942a5b84bb0499f4468a, type: 3}
+    titleObjIndex: 7
+  - isUseBlockColorTable: 1
+    isPurchased: 0
+    price: 500
+    bg: {r: 0.4784314, g: 0.8588236, b: 0.5529412, a: 1}
+    bgImage: {fileID: 21300000, guid: 28d2f0816aaf8495f88927bc65e17a89, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.23529413, g: 0.9058824, b: 0.4901961, a: 1}
+    tutorialBG: {r: 0.47843137, g: 0.85882354, b: 0.5529412, a: 0.7294118}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 0.68235296, g: 0.7490196, b: 0.64705884, a: 1}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    blockHighlightSprite: {fileID: 21300000, guid: d2dd72494371b4b8a89a274222b5ef89,
+      type: 3}
+    blockShadowSprite: {fileID: 21300000, guid: c01479a675aa941e2bce8d720bf7cf98,
+      type: 3}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: ba1f2688f7b180b409e6df520322bef9, type: 3}
+    titleObjIndex: 8
+  - isUseBlockColorTable: 1
+    isPurchased: 0
+    price: 175
+    bg: {r: 0.8470589, g: 0.8588236, b: 0.3019608, a: 1}
+    bgImage: {fileID: 21300000, guid: 90421f92d21064fa2a45962859641586, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.23529413, g: 0.9058824, b: 0.4901961, a: 1}
+    tutorialBG: {r: 0.61960787, g: 0.82745105, b: 0.34901962, a: 0.7176471}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 0.61960787, g: 0.827451, b: 0.34901962, a: 0.7176471}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    blockHighlightSprite: {fileID: 21300000, guid: d2dd72494371b4b8a89a274222b5ef89,
+      type: 3}
+    blockShadowSprite: {fileID: 21300000, guid: c01479a675aa941e2bce8d720bf7cf98,
+      type: 3}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: ba1f2688f7b180b409e6df520322bef9, type: 3}
+    titleObjIndex: 9
+  - isUseBlockColorTable: 1
+    isPurchased: 0
+    price: 275
+    bg: {r: 0.74509805, g: 0.69411767, b: 0.90196085, a: 1}
+    bgImage: {fileID: 21300000, guid: 5d4e80b0a1a5f4382bafdd96764d8aaa, type: 3}
+    icon: {r: 1, g: 1, b: 1, a: 1}
+    block: {r: 0.9058824, g: 0.42352945, b: 0.6039216, a: 1}
+    tutorialBG: {r: 0.8313726, g: 0.654902, b: 0.8705883, a: 0.7529412}
+    slot: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    slotMouseOver: {r: 0.90588236, g: 0.42352942, b: 0.6039216, a: 0.53333336}
+    timeLimitBgColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+    blockSprite: {fileID: 21300000, guid: 2f3e6e38204894b3996edc0728c4888a, type: 3}
+    blockHighlightSprite: {fileID: 21300000, guid: d2dd72494371b4b8a89a274222b5ef89,
+      type: 3}
+    blockShadowSprite: {fileID: 21300000, guid: c01479a675aa941e2bce8d720bf7cf98,
+      type: 3}
+    slotSprite: {fileID: 21300000, guid: 01ff1c73ff3de4808b4a8428ffd75814, type: 3}
+    effectSprite: {fileID: 21300000, guid: ba1f2688f7b180b409e6df520322bef9, type: 3}
+    titleObjIndex: 10

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="androidx.multidex:multidex:2.0.1">
+            <androidSdkPackageIds>
+                <androidSdkPackageId>extra-google-m2repository</androidSdkPackageId>
+            </androidSdkPackageIds>
+            <repositories>
+                <repository>https://maven.google.com</repository>
+            </repositories>
+        </androidPackage>
+    </androidPackages>
+</dependencies>

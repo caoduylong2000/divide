@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "75498058807",
+    "firebase_url": "https://divide-1134b.firebaseio.com",
+    "project_id": "divide-1134b",
+    "storage_bucket": "divide-1134b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75498058807:android:c89b4c4ee5dc37ce",
+        "android_client_info": {
+          "package_name": "com.waken.Divide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75498058807-gkl22a7kc11hr0c9p6966p0d856mgki7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLoVJOp7EjKvBcuUMGS8sD8x2REr71Q34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

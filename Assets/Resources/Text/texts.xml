@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>渡部 健</Author>
+  <LastAuthor>健 渡部</LastAuthor>
+  <Created>2016-06-30T08:45:34Z</Created>
+  <LastSaved>2020-01-15T05:43:31Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16940</WindowHeight>
+  <WindowWidth>27640</WindowWidth>
+  <WindowTopX>3180</WindowTopX>
+  <WindowTopY>2060</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="ＭＳ Ｐゴシック" x:CharSet="128" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="&quot;ＭＳ Ｐゴシック&quot;" x:CharSet="128" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="돋움" x:CharSet="128" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Songti SC Black" x:CharSet="128" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="ヒラギノ角ゴ ProN W3" x:CharSet="128" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="돋움" x:CharSet="128" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="돋움" x:CharSet="129" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="24" ss:Color="#333333"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="texts.csv">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="41" x:FullColumns="1"
+    x:FullRows="1" ss:DefaultColumnWidth="77" ss:DefaultRowHeight="18">
+   <Column ss:Width="91"/>
+   <Column ss:Width="247"/>
+   <Column ss:AutoFitWidth="0" ss:Width="243"/>
+   <Column ss:AutoFitWidth="0" ss:Width="253" ss:Span="2"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">24 ÷ 4 → 6</Data></Cell>
+    <Cell><Data ss:Type="String">24 ÷ 4 → 6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">24 ÷ 4 = 6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">24 ÷ 4 = 6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">24 ÷ 4 = 6</Data></Cell>
+    <Cell><Data ss:Type="String">24 ÷ 4 → 6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1001</Data></Cell>
+    <Cell><Data ss:Type="String">6 ÷ 3 → 2</Data></Cell>
+    <Cell><Data ss:Type="String">6 ÷ 3 → 2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">6 ÷ 3 = 2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">6 ÷ 3 = 2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">6 ÷ 3 = 2</Data></Cell>
+    <Cell><Data ss:Type="String">6 ÷ 3 → 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1002</Data></Cell>
+    <Cell><Data ss:Type="String">10 ÷ 2 → 5</Data></Cell>
+    <Cell><Data ss:Type="String">10 ÷ 2 → 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">10 ÷ 2 = 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">10 ÷ 2 = 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">10 ÷ 2 = 5</Data></Cell>
+    <Cell><Data ss:Type="String">10 ÷ 2 → 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">ここにパネルを置いておけます</Data></Cell>
+    <Cell><Data ss:Type="String">You can keep a panel here</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">여기에블록을놓을수있습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">把面板存放这儿</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">把麵闆存放這兒</Data></Cell>
+    <Cell><Data ss:Type="String">Bạn có thể đặt một thẻ số ở đây.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">パネルがぜんぶ&#13;うまったらおしまい</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You will finish&#13;when all places are filled</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">블록이 가득 차면&#13; 실패 입니다.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">所有的面板都摆上就失败了</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">所有的麵闆都擺上就失敗暸</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Khi không còn chỗ để đặt thẻ số mới&#13;trò chơi kết thúc.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">となりあうブロックが「割りきれる」&#13;ならブロックが割られます</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">If neighbors are dividable,&#13;the blocks are divided.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">가로세로근접숫자가&quot;나누어떨어지면&quot;블록을지울수있습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">旁边的面板互相除得开，这些面板互相除了</Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">徬<Font html:Face="돋움"
+       x:CharSet="128">邊的</Font><Font html:Face="í}éáAä€ÉSÉVÉbÉN ÉåÉMÉÖÉâÅ["
+       x:CharSet="128">麵</Font><Font html:Face="돋움" x:CharSet="128">闆互相除得開，這些</Font><Font
+       html:Face="í}éáAä€ÉSÉVÉbÉN ÉåÉMÉÖÉâÅ[" x:CharSet="128">麵</Font><Font
+       html:Face="돋움" x:CharSet="128">闆互相除暸</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nếu các thẻ cạnh nhau có thể chia hết cho nhau,&#13;số trong các thẻ đó sẽ được chia ra.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">となりあうブロックが「割りきれない」&#13;とブロックは消えません</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">If neighbors are not dividable,&#13;the blocks don't disappear.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">가로세로근접숫자가&quot;나누어떨어지지않으면&quot;블록을지울수없습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">旁边的面板互相除不开，这些面板不能除了</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">徬邊的麵闆互相除不開，這些麵闆不能除暸</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nếu các thẻ cạnh nhau không chia hết cho nhau,&#13;số trong các thẻ đó được giữ nguyên.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">うまく置くと連鎖が起きます</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">If you put on blocks well,&#13;combos occurr.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">숫자위치를잘잡으면콤보를만들수있습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">摆好，就连锁发生了 </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">擺好，就連鎖發生暸 </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nếu đặt các thẻ một các hợp lý,&#13;có thể tạo ra các combo.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2100</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ハイスコアの送信に失敗しました。&#13;しばらくしてから再度お試しください。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">&#13;Failed to send High Score.&#13;Please try again later.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">최고점수등록에실패하였습니다.잠시후다시시도해주세요.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">记录送信失败了，然后再试一次</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">記錄送信失敗暸，然後再試一次</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">&#13;Gửi điểm số thất bại.&#13;Xin hãy thử lại sau.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2101</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">最新ランキングの取得に失敗しました。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Failed to receive the latest ranking.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">최신랭킹을불러오는데실패하였습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">取得最新排行失败了</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">取得最新排行失敗暸</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Cập nhật Bảng xếp hạng mới thất bại.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2102</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Loading…</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Loading…</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">로딩중…</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Loading…</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Loading…</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Loading…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2103</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ランキングの受信に成功しました。ランキングは#{hour}時間毎に更新されます。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Succeeded in receiving the ranking. The Ranking is updated every #{hour} hours.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">랭킹을불러오는데성공하였습니다.순위는3시간마다업데이트됩니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">最新排行更新了。<Font
+       html:Face="ヒラギノ角ゴ ProN W3" x:CharSet="128">排名每#{hour}小</Font><Font
+       html:Face="Songti SC Black" x:CharSet="128">时</Font><Font
+       html:Face="ヒラギノ角ゴ ProN W3" x:CharSet="128">更新一次。</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">最新排行更新暸。排名每#{hour}小時更新一次。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Cập nhật Bảng xếp hạng thành công. Bảng xếp hạng sẽ được cập nhật sau mỗi #{hour} giờ.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2200</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">申し訳ありません。広告が取得できませんでした。しばらくしてから再度お試しください。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Failed to load ads. Please retry gain later.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">죄송합니다.광고를불러오는데실패하였습니다.잠시후다시시도해주세요.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">真抱歉。广告取得失败了。然后再试一次</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">真抱歉。廣告取得失敗暸。然後再試一次</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Không thể tải quảng cáo. Vui lòng thử lại sau. </Data></Cell>
+   </Row>
+   <Row ss:Height="48">
+    <Cell><Data ss:Type="Number">2300</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">30秒ほどの動画広告を見ると&quot;10手&quot;前からやり直せます。広告を見ますか？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">If you watch an advertisement about 30 seconds, you can retry from 10 steps before. Would you like to watch the ad?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30초가량의영상을시청하면&quot;10턴&quot;전으로 돌아갈수있습니다.광고를시청하시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">看三十秒左右地广告的话，从&quot;上个十次&quot;又可以开始。看广告吗？</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">看三十秒左右地廣告的話，從&quot;上個十次&quot;又可以開始。看廣告嗎？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Xem quảng cáo khoảng 30 giây, bạn sẽ được đi lại 10 lượt gần nhất. Bạn có muốn xem quảng cáo không？</Data></Cell>
+   </Row>
+   <Row ss:Height="48">
+    <Cell><Data ss:Type="Number">2301</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">30秒ほどの動画広告を見ると&quot;5手&quot;前からやり直せます。広告を見ますか？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">If you watch an advertisement  about 30 seconds, you can retry from 5 steps before. Would you like to watch the ad?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30초가량의영상을시청하면&quot;5턴&quot;전으로 돌아갈수있습니다.광고를시청하시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">看三十秒左右地广告的话，从&quot;上个五次&quot;又可以开始。看广告吗？</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">看三十秒左右地廣告的話，從&quot;上個五次&quot;又可以開始。看廣告嗎？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Xem quảng cáo khoảng 30 giây, bạn sẽ được đi lại 5 lượt gần nhất. Bạn có muốn xem quảng cáo không？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2400</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">名前を入れて下さい…</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Enter your name …</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">이름을기입해주세요.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">请输入你的名字</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">請輸入妳的名字</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nhập tên của bạn ...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2401</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ランキングに表示用の名前を入れて下さい。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Please enter the name for the ranking.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">랭킹에사용할이름을기입해주세요.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">请输入为排行的名字</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">請輸入為排行的名字</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nhập tên để hiển thị trên Bảng xếp hạng.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">2500</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">異常を検出しました。アプリを一旦終了します。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Error detected. Quit the application once.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">이상을 검출했습니다. 응용 프로그램을 종료 한합니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">检测到错误。 退出应用一次。</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">檢測到錯誤。 退出應用一次。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Đã phát hiện ra lỗi. Tạm thời tắt ứng dụng.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+    <Cell><Data ss:Type="String">はい</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">예</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">对</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">對</Data></Cell>
+    <Cell><Data ss:Type="String">Có</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20001</Data></Cell>
+    <Cell><Data ss:Type="String">いいえ</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">아니오</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">不是</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">不是</Data></Cell>
+    <Cell><Data ss:Type="String">Không</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="44">
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">よろしければ、５つ星で&#13;ゲームを評価してくれませんか？&#13;開発の励みになります。</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Could you give us 5 stars&#13;on a review?&#13;It helps our development.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">만족하셨다면별5개로게임을평가해주세요.굉장히많은힘이됩니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">如果你愿意的话，请评价这个游戏。给我开发的毅力</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">如果妳願意的話，請評價這個遊戲。給我開發的毅力</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bạn có thể đánh giá ứng dụng 5 sao không ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30001</Data></Cell>
+    <Cell><Data ss:Type="String">後で</Data></Cell>
+    <Cell><Data ss:Type="String">Later</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">나중에</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">然后</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">然後</Data></Cell>
+    <Cell><Data ss:Type="String">Để sau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30002</Data></Cell>
+    <Cell><Data ss:Type="String">はい</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">예</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">明白了</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">明白暸</Data></Cell>
+    <Cell><Data ss:Type="String">Có</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30003</Data></Cell>
+    <Cell><Data ss:Type="String">いいえ</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">아니오</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">不用谢</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">不用謝</Data></Cell>
+    <Cell><Data ss:Type="String">Không</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31">
+    <Cell><Data ss:Type="Number">40000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">購入するとバナー広告とゲーム終了後の広告が消えます。&#13;購入しますか？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Banner ads and ads after the game will disappear.&#13;Do you wanna buy this?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">구입하시면 배너 광고와 게임 종료시에 나타나는 광고가 사라집니다.&#13;구입하시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">购买这个制品的话广告没有表示了。购买吗？</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">購買這個製品的話廣告沒有錶示暸。購買嗎？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bạn có muốn đăng ký thành viên để bỏ quảng cáo không ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40001</Data></Cell>
+    <Cell><Data ss:Type="String">広告消し</Data></Cell>
+    <Cell><Data ss:Type="String">Remove Ads</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">광고제거</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">消掉广告</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">消掉廣告</Data></Cell>
+    <Cell><Data ss:Type="String">Bỏ quảng cáo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40002</Data></Cell>
+    <Cell><Data ss:Type="String">はい</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">예</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">对</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">對</Data></Cell>
+    <Cell><Data ss:Type="String">Có</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40003</Data></Cell>
+    <Cell><Data ss:Type="String">いいえ</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">아니오</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">不是</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">不是</Data></Cell>
+    <Cell><Data ss:Type="String">Không</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40004</Data></Cell>
+    <Cell><Data ss:Type="String">復元する</Data></Cell>
+    <Cell><Data ss:Type="String">Restore</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">복구</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">回复</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">迴復</Data></Cell>
+    <Cell><Data ss:Type="String">Khôi phục</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40005</Data></Cell>
+    <Cell><Data ss:Type="String">ストアにアクセスしています。</Data></Cell>
+    <Cell><Data ss:Type="String">Accessing the store…</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">스토어에접속중입니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">向商店接续中</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">嚮商店接續中</Data></Cell>
+    <Cell><Data ss:Type="String">Đang truy cập cửa hàng ...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40006</Data></Cell>
+    <Cell><Data ss:Type="String">このアイテムは購入できません。</Data></Cell>
+    <Cell><Data ss:Type="String">This item can not be purchased.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">이아이템은구입할수없습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">这个商品买不到</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">這個商品買不到</Data></Cell>
+    <Cell><Data ss:Type="String">Không thể mua vật phẩm này.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40007</Data></Cell>
+    <Cell><Data ss:Type="String">インターネットに接続できません。</Data></Cell>
+    <Cell><Data ss:Type="String">No Internet connection.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">인터넷에접속할수없습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">无法连接</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">無法連接</Data></Cell>
+    <Cell><Data ss:Type="String">Không có kết nối Internet.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40008</Data></Cell>
+    <Cell><Data ss:Type="String">購入に失敗しました。</Data></Cell>
+    <Cell><Data ss:Type="String">Failed to purchase.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">구입에실패하였습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">购买失败了。。。</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">購買失敗暸。。。</Data></Cell>
+    <Cell><Data ss:Type="String">Thanh toán thất bại.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">40009</Data></Cell>
+    <Cell><Data ss:Type="String">既に購入済みです。</Data></Cell>
+    <Cell><Data ss:Type="String">This item has already been purchased.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">이미구입하였습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">已经购买了</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">已經購買瞭</Data></Cell>
+    <Cell><Data ss:Type="String">Bạn đã sở hữu vật phẩm này rồi.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">50000</Data></Cell>
+    <Cell><Data ss:Type="String">本当にやめますか？</Data></Cell>
+    <Cell><Data ss:Type="String">Are you sure you want to quit?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">정말로그만두시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">真放弃吗？</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">真放棄嗎？</Data></Cell>
+    <Cell><Data ss:Type="String">Bạn chắc chắn muốn thoát chứ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="409">
+    <Cell><Data ss:Type="Number">60000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">事業者名称：&#10;Nukenin&#10;&#10;事業者住所：&#10;〒606-0807 京都府京都市左京区下鴨泉川町34-19&#10;&#10;事業者電話番号：&#10;090-4434-4253&#10;&#10;事業者メールアドレス：&#10;support@wkpn.net&#10;&#10;お問合せ受付時間：&#10;お問合せはメールにて24時間承っております。&#10;&#10;責任者氏名：&#10;渡部 健&#10;&#10;アプリ動作環境：&#10;iOS 7.0 以降　Android　4.0以上&#10;&#10;販売価格：&#10;購入手続きの際に都度画面表示します。&#10;&#10;その他発生する料金に関して：&#10;アプリケーションのダウンロード等に必要となる通信料金はお客様の負担となります。&#10;&#10;代金の支払い方法：&#10;ご利用のスマートフォン端末によりお支払い方法が異なります。iOSをご利用のお客様はAppStoreでのお支払いとなります。Android端末をご利用のお客様はGoogleウォレットでのお支払いとなります。&#10;&#10;商品引き渡し時期：&#10;購入取引後直ちにご利用いただけます。&#10;&#10;返品に関わる条件：&#10;当社では購入後のキャンセルは受け付けておりませんが、AppStore並びにGoogleウォレットでのキャンセル処理に関してはそれぞれの利用規約をご確認ください。また購入した商品に相違がある場合は当社までお問合わせください。&#10;</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Enterpriser name:&#10;Nukenin&#10;&#10;Enterpriser address:&#10;20-33 Shimogamoizumikawa-cho,Sakyo-ku,Kyoto-shi,Kyoto-fu,6060807&#10;&#10;Enterpriser telephone number:&#10;81-904434-4253&#10;&#10;Enterpriser e-mail address:&#10;support@wkpn.jp&#10;&#10;Inquiry reception time:&#10;We accept inquiries for 24 hours by email.&#10;&#10;Representative name:&#10;Ken Watanabe&#10;&#10;App operating environment:&#10;iOS 7.0- Android 4.0-&#10;&#10;Selling price:&#10;We display on the screen purchase procedure at the time of purchase each time.&#10;&#10;As for other possible costs:&#10;Communication fee required for such application download will be paid by the customers.&#10;&#10;How to pay:&#10;Payment is different by smart phone terminal you are using.If you are a user of iOS, you can pay in Apple Store.If you are a user of Android terminal, you can pay at Google Wallet.&#10;&#10;Period when we hand out the item:&#10;We will hand it out immediately after purchasing.&#10;&#10;Conditions relating to the returned goods:&#10;We cannot accept cancelation after purchased, however, please check each terms of service as for cancel procedure on the AppStore or Google wallet. Also, please contact us if the item you purchased is different from one you wanted.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">사업자 명：&#10;Nukenin&#10; &#10;사업 소재지：&#10;〒606-0807 교토 부 교토시 사 쿄구 下鴨泉川 마치 34-19&#10;&#10;사업자 전화번호:&#10;+81-90-4434-4253&#10;&#10;사업자 이메일 주소:&#10;support@wkpn.net&#10;&#10;고객센터 대응시간:&#10;상기 이메일 주소로 24시간 대응&#10;&#10;책임자:&#10;渡部 健(와타나베 켄)&#10;&#10;지원되는 버전:&#10;iOS 7.0 이상, Android 4.0이상&#10;&#10;판매 가격:&#10;기본 플레이는 무료입니다. 게임 내에 과금요소가 있으며,&#10;결제 과정에서 별도로 안내해드립니다.&#10;&#10;그 외에 발생하는 요금에 관하여:&#10;어플리케이션 다운로드 시 발생하는 통신료는 고객님 부담입니다.&#10;&#10;결제 방법:&#10;사용하시는 기기마다 결제 방법이 다릅니다. iOS를 이용하시는 고객님게서는 AppStore에서 결제하시면 됩니다. Android기기를 이용하시는 고객님께서는 Google Wallet에서 결제하시면 됩니다.&#10;&#10;상품 지급:&#10;구입 후 바로 이용하실 수 있습니다.&#10;&#10;환불에 관한 조약:&#10;당사에서는 환불 대응이 불가능하며, AppStore 및 Google Wallet을 통한 결제 취소 처리에 관해서는 각 스토어의 이용규약에 따라주시길 바랍니다. 또한 구입한 상품에 문제가 발생할 경우 언제든지 연락을 주시면 감사하겠습니다. </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Enterpriser name:&#10;Nukenin&#10;&#10;Enterpriser address:&#10;34-19 Shimogamoizumikawa-cho,Sakyo-ku,Kyoto-shi,Kyoto-fu,6060807&#10;&#10;Enterpriser telephone number:&#10;81-904434-4253&#10;&#10;Enterpriser e-mail address:&#10;support@wkpn.jp&#10;&#10;Inquiry reception time:&#10;We accept inquiries for 24 hours by email.&#10;&#10;Representative name:&#10;Ken Watanabe&#10;&#10;App operating environment:&#10;iOS 7.0- Android 4.0-&#10;&#10;Selling price:&#10;We display on the screen purchase procedure at the time of purchase each time.&#10;&#10;As for other possible costs:&#10;Communication fee required for such application download will be paid by the customers.&#10;&#10;How to pay:&#10;Payment is different by smart phone terminal you are using.If you are a user of iOS, you can pay in Apple Store.If you are a user of Android terminal, you can pay at Google Wallet.&#10;&#10;Period when we hand out the item:&#10;We will hand it out immediately after purchasing.&#10;&#10;Conditions relating to the returned goods:&#10;We cannot accept cancelation after purchased, however, please check each terms of service as for cancel procedure on the AppStore or Google wallet. Also, please contact us if the item you purchased is different from one you wanted.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Enterpriser name:&#10;Nukenin&#10;&#10;Enterpriser address:&#10;34-19 Shimogamoizumikawa-cho,Sakyo-ku,Kyoto-shi,Kyoto-fu,6060807&#10;&#10;Enterpriser telephone number:&#10;81-904434-4253&#10;&#10;Enterpriser e-mail address:&#10;support@wkpn.jp&#10;&#10;Inquiry reception time:&#10;We accept inquiries for 24 hours by email.&#10;&#10;Representative name:&#10;Ken Watanabe&#10;&#10;App operating environment:&#10;iOS 7.0- Android 4.0-&#10;&#10;Selling price:&#10;We display on the screen purchase procedure at the time of purchase each time.&#10;&#10;As for other possible costs:&#10;Communication fee required for such application download will be paid by the customers.&#10;&#10;How to pay:&#10;Payment is different by smart phone terminal you are using.If you are a user of iOS, you can pay in Apple Store.If you are a user of Android terminal, you can pay at Google Wallet.&#10;&#10;Period when we hand out the item:&#10;We will hand it out immediately after purchasing.&#10;&#10;Conditions relating to the returned goods:&#10;We cannot accept cancelation after purchased, however, please check each terms of service as for cancel procedure on the AppStore or Google wallet. Also, please contact us if the item you purchased is different from one you wanted.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tên Công ty:&#10;Nukenin&#10;&#10;Địa chỉ văn phòng:&#10;Khu Shimogamo, Phố Izumikawa, vùng Sakyo, Thành phố Kyoto, Tỉnh Kyoto, 606-0807&#10;&#10;Số điện thoại liên lạc:&#10;81-904434-4253&#10;&#10;Email liên lạc:&#10;support@wkpn.jp&#10;&#10;Thời gian tiếp nhận yêu cầu:&#10;Chúng tôi chấp nhận các yêu cầu trong vòng 24 giờ qua email.&#10;&#10;Người đại diện:&#10;Ken Watanabe&#10;&#10;Môi trường hoạt động của ứng dụng:&#10;iOS 7.0 trở lên - Android 4.0 trở lên&#10;&#10;Giá bán:&#10;Giá bán được iển thị trên màn hình mỗi khi tiến hành thủ tục mua&#10;&#10;Liên quan đến chi phí phát sinh khác:&#10;Phí internet cần thiết khi download sẽ do người dùng trả phí. .&#10;&#10;Cách thức thanh toán:&#10;Thanh toán khác nhau bằng thiết bị điện thoại thông minh mà bạn đang sử dụng. Nếu bạn là người dùng iOS, bạn có thể thanh toán trong Apple Store. Nếu bạn là người dùng thiết bị Android, bạn có thể thanh toán tại Google Wallet.&#10;&#10;Thời gian giao sản phẩm:&#10;Ngay sau khi thanh toán có thể sử dụng.&#10;&#10;Điều khoản hoàn trả:&#10;Công ty chúng tôi không tiếp nhận huỷ sau khi đã thanh toán. Liên quan tới huỷ ở ví Google hoặc App store thì hãy kiểm tra điều khoản sử dụng riêng của mỗi bên. Trường hợp sau khi mua hàng có xảy ra sai xót gì thì hãy liên hệ với chúng tôi.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">60001</Data></Cell>
+    <Cell><Data ss:Type="String">特定商取引法に基づく表記</Data></Cell>
+    <Cell><Data ss:Type="String">Notation based on the Specified Commercial Transaction Act</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">공정거래법에따른표기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">基于特定交易法的</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">基於特定交易法的</Data></Cell>
+    <Cell><Data ss:Type="String">Chú thích dựa trên Đạo luật giao dịch thương mại được chỉ định</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="Number">90000</Data></Cell>
+    <Cell><Data ss:Type="String">動画広告の再生に失敗しました。</Data></Cell>
+    <Cell><Data ss:Type="String">Failed to play movie ads.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">영상의재생에실패하였습니다.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">动画广告取得失败了</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">動畫廣告取得失敗了</Data></Cell>
+    <Cell><Data ss:Type="String">Chạy video quảng cáo thất bại.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell><Data ss:Type="String">dustbin</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">&quot;#{num}&quot;&#10;を捨てますか?&#10;(動画広告が始まります。)</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Do you want to discard this &quot;#{num}&quot;?&#10;(The video ad will start.)</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">이 &quot;#{num}&quot;을 버립니까?&#10;(동영상 광고가 시작됩니다.)</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">你会扔掉这个&quot;#{num}&quot;吗?&#10;(视频广告开始了。)</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">你會扔掉這個&quot;#{num}&quot;嗎? (視頻廣告開始了。)</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bạn có muốn bỏ cái này không &quot;#{num}&quot;?&#10;(Video quảng cáo sẽ bắt đầu.)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48">
+    <Cell><Data ss:Type="String">ask_subscription</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">全広告を非表示にする月額サービスです&#10;購入しますか？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">This is a monthly subscription that disappears all ads.&#10;Would you like to buy it?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">모든 광고가 사라지는 월간 구독입니다.&#10;구매 하시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">这是每月订阅，所有广告都会消失。&#10;你想买吗？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">這是每月訂閱，所有廣告都會消失。&#10;你想買嗎？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bạn có muốn đăng ký tháng để bỏ quảng cáo ?</Data></Cell>
+   </Row>
+   <Row ss:Height="32">
+    <Cell><Data ss:Type="String">ask_retry</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">#{num}手 前からやり直しますか？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Would you like to retry from #{num} steps before?</Data></Cell>
+    <Cell><Data ss:Type="String">#{num} 단계 전에 다시 시도 하시겠습니까?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">您想从#{num}个步骤之前重试吗？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">您想從#{num}個步驟之前重試嗎？</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bạn có muốn chơi lại từ #{num} bước trước đấy không?</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>35</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>40</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
